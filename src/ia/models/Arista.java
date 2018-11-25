@@ -1,26 +1,32 @@
 package ia.models;
 
-public class Arista<V,E> {
-	E elemento;
-	Vertice<V,E> nodo1;
-	Vertice<V,E> nodo2;
+public class Arista {
+	double peso;
+	Vertice nodo1;
+	Vertice nodo2;
 	
-	public E getElemento() {
-		return elemento;
+	public double getPeso() {
+		return this.peso;
 	}
-	public void setElemento(E elemento) {
-		this.elemento = elemento;
+	public void setPeso(double peso) {
+		this.peso = peso;
 	}
-	public Vertice<V, E> getNodo1() {
+	public Vertice getNodo1() {
 		return nodo1;
 	}
-	public void setNodo1(Vertice<V, E> nodo1) {
+	public void setNodo1(Vertice nodo1) {
 		this.nodo1 = nodo1;
 	}
-	public Vertice<V, E> getNodo2() {
+	public Vertice getNodo2() {
 		return nodo2;
 	}
-	public void setNodo2(Vertice<V, E> nodo2) {
+	public void setNodo2(Vertice nodo2) {
 		this.nodo2 = nodo2;
+	}
+	
+	public Arista() {}
+	
+	public Arista(double peso) {
+		this.peso=peso;
 	}
 }
