@@ -40,4 +40,8 @@ public class Grafo<V, E> {
 		vertice2.getAdyacentes().put(new Arista(peso), vertice1);
 		return true;		
 	}
+	
+	public List<Vertice> getVertices(){
+		return this.vertices;
+	}
 }
