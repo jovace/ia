@@ -31,4 +31,5 @@ public class Arista {
 		this.nodo1=nodo1;
 		this.nodo2=nodo2;
 	}
+	//Comentario
 }
