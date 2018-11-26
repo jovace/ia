@@ -1,12 +1,16 @@
 package ia.models;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Grafo {
 	List<Vertice> vertices;
 	List<Arista> aristas;
 	
-	public Grafo() {}
+	public Grafo() {
+		vertices= new ArrayList<>();
+		aristas= new ArrayList<>();
+	}
 	
 	public Grafo(List<Vertice> vertices, List<Arista> aristas) {
 		this.vertices=vertices;
