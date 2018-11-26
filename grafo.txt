@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-Línea Roja:
-
-Estaciones
-
-Olmazor
-Chilonzor
-Mirzo Ulugbek
-Novza
-Milliy Bog
-Bunyodkor
-Pakhtakor
-Mustakillik Maydoni
-Amir Temur Hiyoboni
-Khamid Alimjan
-Pushkin
-Buyuk Ipak Yuli
-
 Olmazor;[Chilonzor:1.99]
 Chilonzor;[Mirzo Ulugbek:1.11]
 Mirzo Ulugbek;[Novza:1.78]
@@ -27,23 +9,6 @@ Mustakillik Maydoni;[Amir Temur Hiyoboni:0.99]
 Amir Temur Hiyoboni;[Khamid Alimjan:1.55]
 Khamid Alimjan;[Pushkin:1.55]
 Pushkin;[Buyuk Ipak Yuli:1.35]
-
-Línea Azul:
-
-Estaciones:
-
-Beruni
-Tinchlik
-Chorsu
-Gafur Gulom
-Alisher Navoi
-Uzbekistan
-Kosmonatlar
-Oybek
-Toshkent
-Mashinasozlar
-Dostlik
-
 Beruni;[Tinchlik:1.73]
 Tinchlik;[Chorsu:1.69]
 Chorsu;[Gafur Gulom:0.973]
@@ -55,31 +20,8 @@ Kosmonatlar;[Oybek:1.08]
 Oybek;[Toshkent:1.32]
 Toshkent;[Mashinasozlar:1.66]
 Mashinasozlar;[Dostlik:1.51]
-
-
-
-Línea Verde
-
-Estaciones:
-
-Shakhrisron
-Bodomzor
-Minor
-Abdulla Kodiriy
-Yunus Rajabiy
-Ming Urik
-
 Shakhriston;[Bodomzor:1.46]
 Bodomzor;[Minor:1.15]
 Minor;[Abdulla Kodiriy:0.93]
 Abdulla Kodiriy;[Yunus Rajabiy: 0.68]
 Yunus Rajabiy;[Ming Urik:1.90]
-
-
-Last Update 26/11/2018
-
-
-=======
-Vale esto funciona ?
-jajajajaja
->>>>>>> branch 'master' of https://github.com/jovace/ia
