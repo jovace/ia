@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Línea Roja:
 
 Estaciones
@@ -78,3 +79,7 @@ Yunus Rajabiy;[Ming Urik:1.90]
 Last Update 26/11/2018
 
 
+=======
+Vale esto funciona ?
+jajajajaja
+>>>>>>> branch 'master' of https://github.com/jovace/ia
