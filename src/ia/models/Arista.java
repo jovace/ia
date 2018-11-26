@@ -26,7 +26,9 @@ public class Arista {
 	
 	public Arista() {}
 	
-	public Arista(double peso) {
+	public Arista(double peso, Vertice nodo1, Vertice nodo2) {
 		this.peso=peso;
+		this.nodo1=nodo1;
+		this.nodo2=nodo2;
 	}
 }

@@ -40,8 +40,8 @@ public class Grafo {
 		if(!vertices.contains(vertice1))return false;
 		if(!vertices.contains(vertice2))return false;
 		
-		vertice1.getAdyacentes().put(new Arista(peso), vertice2);
-		vertice2.getAdyacentes().put(new Arista(peso), vertice1);
+		vertice1.getAdyacentes().put(new Arista(peso, vertice1, vertice2), vertice2);
+		vertice2.getAdyacentes().put(new Arista(peso, vertice2, vertice1), vertice1);
 		return true;		
 	}
 	
