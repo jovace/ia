@@ -2,7 +2,7 @@ package ia.models;
 
 import java.util.List;
 
-public class Grafo<V, E> {
+public class Grafo {
 	List<Vertice> vertices;
 	List<Arista> aristas;
 	
