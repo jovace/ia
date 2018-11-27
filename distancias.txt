@@ -1,4 +1,1 @@
-Jorge;[Miryam:1;Ana:2]
-Miryam;[Jorge:1;Ana:5]
-Ana;[Jorge:2;Miryam:5]
-Bla bla bla bla 
+Olmazor;[Chilonzor:1.99;Mirzo Ulugbek:3.24;Novza:5.51;Milliy Bog:6.28;Bunyodkor:7.29;Pakhtakor:8.63;Mustakillik Maydoni:9.87;Amir Temur Hiyoboni:11.04;Khamid Alimjan:1.55;Pushkin:13.58;Buyuk Ipak Yuli:14.94;Beruni:9.92;Tinchlik:8.51;Chorsu:8.20;Gafur Gulom :8.90;Pakhtakor:8.34;Alisher Navoi:8.52;Uzbekistan:7.68;Kosmonavtlar:7.81;Oybek:7.90;Toshkent:8.53;Mashinasozlar:10.18;Dostlik:11.27;Shakhriston:13:11;Bodomzor:11.59;Minor:10.69;Abdulla Kodiriy:9.94;Yunus Rajabiy:9.63;Ming Urik:9.93]
